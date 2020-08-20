@@ -1,0 +1,101 @@
+@CHARSET "ISO-8859-1";
+
+.na-brand{
+	
+font-size:2.5rem;
+text-decoration:  underline overline;
+font-family: 'Montserrat', sans-serif;
+}
+
+.botn{
+
+	background-color: black;
+  color: white;
+  
+  margin-right: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0
+		rgba(0, 0, 0, 0.19);
+	
+	
+}
+.bltn:HOVER{
+background-color: #0080c0;
+  color: white;
+}
+
+.bltn{
+	background-color: white;
+  color: black;
+  
+  margin-right: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0
+		rgba(0, 0, 0, 0.19);
+	
+}
+
+.modal-body{
+	font-family: 'Montserrat', sans-serif;
+	
+	
+}
+
+.modal-title{
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.form{
+	
+	font-family: 'Montserrat', sans-serif;
+}
+
+.botn:hover{
+	background-color: #0080c0;
+  color: white;
+} 
+  
+ .navbar{
+ background: linear-gradient(white, #6e899c);
+ color: white;
+ }
+ 
+ 
+ 
+ .mtext{
+ 
+ background-color: #324a5c;
+ color: white;
+ }
+ 
+ .mtitle{
+  background-color: #324a5c;
+ color: white;
+ }
+ 
+ #contact{
+ bottom:0;
+ }
+ 
+ 
+.vTitle{
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: underline ;
+	text-decoration-color: black;
+}
+ 
+ 
+#or::before{
+    display: inline-block;
+    content: "";
+    border-top: .05rem solid black;
+    width: 4rem;
+    margin: 0 1rem;
+
+ }
+ 
+#or::after {
+    display: inline-block;
+    content: "";
+    border-top: .05rem solid black;
+    width: 4rem;
+    margin: 0 1rem;
